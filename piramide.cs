@@ -20,7 +20,6 @@ namespace Piramide{
                 tmp += (i*i);
 
             return mattoni - tmp;
-
         }
 
     }

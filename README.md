@@ -1,7 +1,7 @@
 # Piramide
 
 ### Consegna
-Questo esercizio prevede che, dato un numero di mattoni, il programma, usando due funzioni diverse, calcoli quanti piani completi si possono fare con quei mattoni, e quanti sarebbero i mattoni rimanenti dopo la costruzione dell'ultimo piano. Per la risoluzione di questo esercizio si parte dal presupposto che la punta della piramide sia formata da 1 mattone. 
+Questo esercizio prevede che, dato un numero di mattoni per costruire una piramide a base quadrata, il programma, usando due funzioni diverse, calcoli quanti piani completi si possono fare con quei mattoni, e quanti sarebbero i mattoni rimanenti dopo la costruzione dell'ultimo piano. Per la risoluzione di questo esercizio si parte dal presupposto che la punta della piramide sia formata da 1 mattone. 
 
 ### Soluzione
 La soluzione qua pubblicata prevede l'uso di un <b>ciclo for</b>, una variabile contatore <b>i</b> ed una variabile temporanea <b>tmp</b> che memorizza man mano quanti mattoni sono usati per i piani.
